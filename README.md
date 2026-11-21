@@ -22,6 +22,7 @@ This project is a simple Python command-line application built to help viewers q
 
 ## Dataset
 
+* Source: https://www.kaggle.com/datasets/amaymishra11/ott-movies-and-series-dataset-ml-and-nlp-ready
 * File: ott_movies_clean_unique.csv
 * Size: 2,500 records and 17 columns (no missing values)
 * Covers Movies and Series (2015-2024) on Netflix, Prime Video, and Hotstar
